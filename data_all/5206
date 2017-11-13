@@ -1,0 +1,1 @@
+yeah all these problems for you it would have put everything in cache in RAM in memory and so every time you make a response its varnish that's responding rather than recalculating PHP recalculating database it by pass as all of those things and go straight to varnish and every varnish response so that's also.,

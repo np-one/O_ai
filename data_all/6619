@@ -1,0 +1,1 @@
+So we have two approaches as to how you can do that we have a Ajax based solution where you can do a browser-based call with the search results are rendered using Ajax but we also have a back-end solution where you can configure the WC search XML file and call instead of your solar API call you can call the Unbxd API's so we have both ways where we can implement search from.,

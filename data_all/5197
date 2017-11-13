@@ -1,0 +1,1 @@
+yeah because we will respond in 100 milliseconds or less so let's say the request comes to us we responding lower 100 milliseconds this is round-trip by the way so you send the request to us we respond within hundred milliseconds and if PHP is pretty fast let's say the PHP takes a second a full second then it's one point one second is what you should be able to respond to .,
